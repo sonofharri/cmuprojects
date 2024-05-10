@@ -1,7 +1,7 @@
 # My CMU Projects
 
-Hi! These are my CMU projects, containing various cool concepts that were not taught.<br>
-If you're interested in something, you can read it. Feel free to use this code for whatever.<br>
+Hi! These are my CMU projects, containing various cool concepts.<br>
+If you're interested in something, you can read it. Feel free to use this code for whatever you'd like.<br>
 <br>
 If you want me to explain something for you, you can approach me in-person or email me!<br>
 <br>
