@@ -12,3 +12,4 @@ If you want me to explain something for you, you can approach me in-person or em
 ### [Rhythm Game](https://academy.cs.cmu.edu/sharing/khakiHorse6490) (Not Playable without Console)
 ### [Platformer](https://academy.cs.cmu.edu/sharing/siennaCrocodile4809)
 ### [3D Engine](https://academy.cs.cmu.edu/sharing/blueVioletTiger7209)
+### [Cowboy](https://academy.cs.cmu.edu/sharing/slateBlueFly8841)
